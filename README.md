@@ -16,7 +16,12 @@
      <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
      <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"> 
   </div>
-
+    <br>
+    <p><strong>AI Agents</strong></p>
+    <div>
+       <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white">
+       <img src="https://img.shields.io/badge/OpenAI%20Codex-000000?style=flat-square&logo=openai&logoColor=white">
+    </div>
   <br>
   <p><strong>DevOps</strong></p>
   <div>
@@ -59,7 +64,7 @@
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
      <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white">
   </div>
-
+  
   <br>
   <p><strong>Version Control</strong></p>
   <div>
